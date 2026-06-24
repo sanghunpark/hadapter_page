@@ -163,13 +163,10 @@ body {
 }
 
 .publication-venue {
-    color: var(--text-secondary);
-    width: fit-content;
-    font-weight: 600;
-    background: var(--background-accent);
-    padding: 0.5rem 1rem;
-    border-radius: var(--border-radius);
-    margin-top: 1rem;
+    color: var(--text-primary);
+    font-weight: 700;
+    font-size: 1.4rem;
+    margin-top: 0.4rem;
     display: inline-block;
 }
 
